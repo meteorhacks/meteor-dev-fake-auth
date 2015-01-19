@@ -1,5 +1,6 @@
-# meteor-dev-fake
-A fake for use in testing Meteor apps. Fakes the oauth calls amongst other APIs.
+# meteor-dev-fake-auth
+
+This is a way to test meteor developer accounts by completing OAuth process in a fake way. No need to interact with the real meteor servers and popups.
 
 ##Usage:
 
